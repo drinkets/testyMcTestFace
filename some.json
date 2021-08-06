@@ -1,0 +1,13 @@
+{
+  "email": "",
+  "prBoard": "",
+  "comment": {
+    "title": "",
+    "description": "",
+    "board": "",
+    "type": "",
+    "priority": "",
+    "assignee": "",
+    "status": ""
+  }
+}
